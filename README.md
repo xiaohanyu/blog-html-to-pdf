@@ -78,7 +78,7 @@ const puppeteer = require('puppeteer');
   了 headerless 选项 （`const browser = await puppeteer.launch({headless: false}`），
   直接导致电脑内存耗光，现在了数十个 chromium 共存的感人画面：
 
-<img src="./screenshots/tens-of-chromium.png" width="1440">
+<img src="./screenshots/hundreds-of-chromium.png" width="1440">
 
 完整的截图代码在 [这里](https://github.com/xiaohanyu/blog-html-to-pdf/blob/master/index.js)。
 
