@@ -36,7 +36,7 @@ http://www.brendangregg.com/blog/2009-01-09/1gbs-nfs-from-disk.html
 于是我们用如下的命令过滤出所有 blog 文章的 URL：
 
 ```
-cat /tmp/urls.txt | grep 'blog/2' | grep '.html$' |  sort | uniq  > blog.txt
+cat /tmp/urls.txt | grep 'blog/2' | grep '.html$' | sort | uniq > blog.txt
 ```
 
 到此，第一步完成。
