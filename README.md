@@ -1,5 +1,9 @@
 [English README](./README.en.md)
 
+## 注意
+
+新加入抓取 [Microsoft Azure Architecture Center](https://github.com/xiaohanyu/blog-html-to-pdf/blob/master/Microsoft.md) 文章的程序。程序调用方式已经[变更](https://github.com/xiaohanyu/blog-html-to-pdf/commit/80518f3a09fc3e2f15658dcc97e9819f5d720fc7#diff-168726dbe96b3ce427e7fedce31bb0bc)，如果按照些说明文档操作抓取 Brendan Gregg 文章，请 `git reset --hard d8cc3c2`。
+
 ## 简介
 
 事情是这样的，我的一位朋友是 [Brendan Gregg](http://www.brendangregg.com/) 的粉丝（啊，我也是），想把他的 [blog](http://www.brendangregg.com/blog/) 保存成 PDF，放到 kindle 上随时研读，群里讨论起来，就聊起来有没有一些好的办法能够把 130 篇文章由 HTML 转成 PDF。

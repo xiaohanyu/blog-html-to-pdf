@@ -2,7 +2,7 @@
 
 [Microsoft Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) 的文章写得不错，特别是 [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) 部分，我觉得写得相当好，很有参考价值。
 
-因为我将原来的[程序](https://github.com/xiaohanyu/blog-html-to-pdf/blob/d8cc3c2/index.js) 略做更改，抓取了 460+ 页文章，合成一个 pdf 文档，总计约 2300 多页。
+因为我将原来的[程序](https://github.com/xiaohanyu/blog-html-to-pdf/blob/d8cc3c2/index.js)略做更改，抓取了 460+ 页文章，合成一个 pdf 文档，总计约 2300 多页。
 
 抓取 URL 方面，没有采用 wget 的方式，偷懒用手工方式抓取到了所有的 url。
 

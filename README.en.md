@@ -1,3 +1,7 @@
+## Notice
+
+I just changed the program to spider down articles from [Microsoft Azure Architecture Center](https://github.com/xiaohanyu/blog-html-to-pdf/blob/master/Microsoft.md). So if you want to spider down Brendan Gregg's articles with the program as documented in this README, please `git reset --hard d8cc3c2`, enjoy.
+
 ## Introduction
 
 One of my friends is a fan of [Brendan Gregg] (http://www.brendangregg.com/)
